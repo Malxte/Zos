@@ -39,3 +39,9 @@ After creating the ISO, you can test it with QEMU:
 ```sh
 qemu-system-i386 -cdrom zig-out/kernel.iso
 ```
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+
+Copyright (C) 2025 Malxte
